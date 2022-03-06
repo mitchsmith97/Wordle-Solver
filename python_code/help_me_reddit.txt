@@ -1,0 +1,6 @@
+Well I had a wild hair to create a solver for the game Wordle that is kinda blowing up right now (https://www.powerlanguage.co.uk/wordle/) It looked like Selenium was my best option to interact with elements, but I'm struggling to get any results. I have two things I'm trying to do.
+1. Interact with game keyboard. I found it in the console by going body -> game-app -> #shadow-root -> game-theme manager -> game -> game-keyboard -> #shadow-root -> div id="keyboad" -> 3 rows of buttons. I tried using driver.find_element(By.XPATH, 'button') with a lot of different attempts in place of 'button', but no elements are being found. Is there better way to go about navigating this? I'm not sure if the #shadow-root is an issue, I'm not familiar with that element.
+
+2. Reading the results of entries. Honestly help with the first part is probably enough to get me started, but is there a way to search for a <game-tile> element?
+
+Any links to good tutorials would also be great!

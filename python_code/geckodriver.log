@@ -1,0 +1,133 @@
+1643999276727	geckodriver	INFO	Listening on 127.0.0.1:60482
+1643999279790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60483" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileydYvfM"
+1643999280109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileydYvfM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60483/devtools/browser/988c1ca8-b080-476a-81f4-7cda4356cffb
+1643999282306	Marionette	INFO	Listening on port 60488
+1643999282457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.d76a911d797c6ad8bc44.js, line 1: unreachable code after return statement
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 3655 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 4762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 2123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 6801 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.825.411&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 3673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fdyn.pubwise.io/scripJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+?type=default, line 1151: TypeError: s is undefined
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 12144, MediaDecoderStateMachine #1] WARNING: 225f4a91580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-RQXuketuW9jWIYsaM5S-Ql31PXoBsmd6vdkFHZtDQI.js line 1 > eval line 7335 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fdyn.pubwise.io/script/8e8b7267-5938-41ec-b047-b7e985fc9645/v3/dyn/pws.js?type=default, line 1151: TypeError: s is undefined
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+d: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54128" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileKYechZ"
+1644003037992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileKYechZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54128/devtools/browser/85d48a60-8e33-425e-b158-2ee1b3f9f6d3
+1644003040184	Marionette	INFO	Listening on port 54134
+1644003040398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57865
+1644003416504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57866" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilefqqjlc"
+1644003416767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilefqqjlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57866/devtools/browser/41121109-202a-4f3e-bda5-b5aa03dbf975
+1644003418809	Marionette	INFO	Listening on port 57871
+1644003419153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57967
+1644003691995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57968" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileu6s2Ss"
+1644003692256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileu6s2Ss\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57968/devtools/browser/4372514b-ea23-426f-b0de-2a8388902081
+1644003694317	Marionette	INFO	Listening on port 57973
+1644003694653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58076
+1644003893619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58077" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileV4fADa"
+1644003893885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileV4fADa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58077/devtools/browser/941f0cb9-22bb-43a8-8336-e4518a66f29b
+1644003895915	Marionette	INFO	Listening on port 58082
+1644003896285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58146
+1644003927109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58147" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileNOyErk"
+1644003927377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileNOyErk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58147/devtools/browser/c101d6e3-6301-437d-884c-65fe33c2bc02
+1644003929520	Marionette	INFO	Listening on port 58154
+1644003929773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50691
+1644004358210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50692" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofile7UPziz"
+1644004358481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofile7UPziz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50692/devtools/browser/6056ecf2-a867-4777-aa70-f7c06df4ff01
+1644004360611	Marionette	INFO	Listening on port 50697
+1644004360855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50765
+1644004481102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50766" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilewfqaQM"
+1644004481365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilewfqaQM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50766/devtools/browser/4fd1b84c-a2c0-455c-8623-2ca8a5f26512
+1644004483384	Marionette	INFO	Listening on port 50772
+1644004483767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60282
+1644005160226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60283" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileMX7qfX"
+1644005160493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofileMX7qfX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60283/devtools/browser/170fed4a-6848-4046-bba5-a1c154932181
+1644005162581	Marionette	INFO	Listening on port 60288
+1644005162875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60363
+1644005517952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60364" "-no-remote" "-profile" "C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilee0la2M"
+1644005518217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mitch\\AppData\\Local\\Temp\\rust_mozprofilee0la2M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60364/devtools/browser/32c859c8-46d1-486f-b20a-d7e59f8ef03c
+1644005520324	Marionette	INFO	Listening on port 60369
+1644005520596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
